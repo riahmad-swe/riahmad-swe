@@ -9,7 +9,7 @@
 ## :fire: About Me:
 - :telescope: I’m currently working on **Titonex**
 - :seedling: I’m currently learning **Software Development**
-- :technologist: My portfolio: [riahmad.com](https://riahmad.com)
+- :technologist: My portfolio: [riahmad.com](https://riahmad.my)
 - :speech_balloon: Ask me about **Web Design, Tailwind, JavaScript & DOM, Firebase Authentication, ReactJS, and MongoDB.**
 - :zap: Fun fact: ***The Evergreen Learner***
 - :heartbeat: Loves ***Travelling***
