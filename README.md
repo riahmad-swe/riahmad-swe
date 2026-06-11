@@ -1,7 +1,7 @@
 [![](https://media.licdn.com/dms/image/v2/D4D16AQGCsJ7EUmkD2A/profile-displaybackgroundimage-shrink_350_1400/B4DZZsyLEIHwAc-/0/1745581814617?e=1750896000&v=beta&t=kvCR3rfECtxyb25QStLnzQpDNs97dyGLWc80yvejpnY)]()
 <h1 align="center">Rakibul Islam</h1>
 <h3 align="center">Software Developer</h3>
-<h4 align="center">From React Components to Django Views - I navigate the Full-Stack.</h4>
+<h4 align="center">FFounder & CEO @ Titonex | Golang | PostgreSQL | Docker</h4>
 <img src="https://komarev.com/ghpvc/?username=riaurko&label=Profile%20Viewers&color=00a000&style=flat" alt="profile_views" /></p>
 
 ---
@@ -9,7 +9,7 @@
 ## :fire: About Me:
 - :telescope: I’m currently working on **Titonex**
 - :seedling: I’m currently learning **Software Development**
-- :technologist: My portfolio: [riahmad.com](https://riahmad.my)
+- :technologist: My portfolio: [riahmad.my](https://riahmad.my)
 - :speech_balloon: Ask me about **Web Design, Tailwind, JavaScript & DOM, Firebase Authentication, ReactJS, and MongoDB.**
 - :zap: Fun fact: ***The Evergreen Learner***
 - :heartbeat: Loves ***Travelling***
