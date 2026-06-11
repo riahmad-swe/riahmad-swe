@@ -1,7 +1,7 @@
 [![](https://media.licdn.com/dms/image/v2/D4D16AQGCsJ7EUmkD2A/profile-displaybackgroundimage-shrink_350_1400/B4DZZsyLEIHwAc-/0/1745581814617?e=1750896000&v=beta&t=kvCR3rfECtxyb25QStLnzQpDNs97dyGLWc80yvejpnY)]()
 <h1 align="center">Rakibul Islam</h1>
 <h3 align="center">Software Developer</h3>
-<h4 align="center">FFounder & CEO @ Titonex | Golang | PostgreSQL | Docker</h4>
+<h4 align="center">Founder & CEO @ Titonex | Golang | PostgreSQL | Docker</h4>
 <img src="https://komarev.com/ghpvc/?username=riaurko&label=Profile%20Viewers&color=00a000&style=flat" alt="profile_views" /></p>
 
 ---
